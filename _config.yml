@@ -1,7 +1,7 @@
-title: Mark Kamuda
-description: Personal Blog for Mark
+title: Greg Westphal
+description: Personal Blog for Greg
 
-url: https://github.com/kamuda1
+url: https://github.com/gtw2
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -14,19 +14,13 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
- - title: Professional Projects
-   url: /experience
- - title: Hobby Projects
-   url: /hobby_projects
- - title: Presentations
-   url: /presentations
  - title: Resume
-   url: /kamuda_resume.pdf
+   url: /westphal_resume.pdf
  - title: Contact
    url: /contact
 
 social:
-   github: kamuda1
-   email: kamuda1@illinois.com
+   github: gtw2
+   email: gtw2@illinois.com
 
 google_analytics: "UA-58263416-1"
